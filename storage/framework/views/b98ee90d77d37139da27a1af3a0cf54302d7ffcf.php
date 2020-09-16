@@ -1,0 +1,1 @@
+<?php /**PATH /opt/lampp/htdocs/royalhotel/resources/views/layouts/frontLayout/cart.blade.php ENDPATH**/ ?>
